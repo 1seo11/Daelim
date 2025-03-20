@@ -1,0 +1,5 @@
+3주차
+1교시
+IDE(파이참) git bush 터미널 연결
+settings-> Tools -> Terminal -> Shell path
+bash 선택
