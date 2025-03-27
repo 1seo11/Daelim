@@ -1,10 +1,12 @@
 4주차
-
 1교시
-conflict
+confilict
+git 명령어
+log --oneline
+
+linux 명령어
 
 2교시
 
-
-3교시 
+3교시
 
